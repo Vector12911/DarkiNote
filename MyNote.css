@@ -1,0 +1,101 @@
+body{
+	background-color: #595959;
+	font-family: 'Roboto';
+	font-size: 20px;
+	/*color: #2a1369;*/
+}
+ 
+h3{
+	color:white;
+}
+
+#navbr{
+	/*background-color: #ab9ad8;*/
+
+}
+.container {
+	background-color: #828282;
+}
+
+.noteCard{
+	/*background-color: #ab9ad8;*/
+	background-color: #333333;
+	color: white;
+}
+
+#logo{
+	color:white;
+}
+
+.card-text{
+	/*color: #2a1369;*/
+	color: white;
+}
+
+.container {
+	/*background-color: #beb3dc;*/
+	/*dark*/
+	background-color: #212529;
+}
+.clr{
+	/*color: #1b0850;*/
+}
+
+/*button color*/
+.clrbtn{
+	/*background-color:#1b0850; */
+}
+
+/*.tggle{
+	background-color: #331b75;
+	}*/
+/*.navbar-toggler{
+    width: 47px;
+    height: 34px;
+    background-color: #7eb444;
+    border:none;
+}
+.navbar-toggler .line{
+    width: 100%;
+    float: left;
+    height: 10px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    }*/
+
+
+#title1{
+	/*border-top-style: hidden;
+	border-right-style: hidden;
+	border-left-style: hidden;*/
+	/*border-bottom-style:;*/
+	border-color: #ab9ad8;
+	border-style: hidden;
+	background-color: #666666;
+	color: white;
+}
+
+.titleclass:focus {
+  outline: none;
+}
+
+.titlebold{
+	font-weight: #666666;
+}
+
+
+#addText{
+	font-family: 'Roboto';
+	font-size: 20px;
+	color: white;
+	background-color: #666666;
+	border-style: hidden;
+}
+	
+.color{
+	/*background-color: rgb(235, 204, 255);*/
+}
+
+#colorSignup{
+	background-color: black;
+}
